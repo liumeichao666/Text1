@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MyTitleView">
+       <attr name="tv_title" format="string"/>
+        <attr name="tv_color" format="color"/>
+
+
+
+        <attr name="but_left" format="string"/>
+        <attr name="but_right" format="string"/>
+
+    </declare-styleable>
+</resources>
